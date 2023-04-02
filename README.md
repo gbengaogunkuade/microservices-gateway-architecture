@@ -15,9 +15,9 @@ CompanyB
 - An internal Discovery service running that does service discovery for all its internal microservices
 
 Other features to be added...
-
-### My Name is Gbenga Ogunkuade (08067647853).
-### I just love to code...
+#
+My Name is Gbenga Ogunkuade (+234 8067647853 | electro4real@gmail.com).
+I just love to code... 🙂
 
 
 
