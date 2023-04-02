@@ -1,5 +1,5 @@
 # microservices-gateway-architecture
-This is a microservices communication between two companies Developed By **Gbenga Ogunkuade**
+This is a Microservices Communication between Two Companies Developed By **Gbenga Ogunkuade**
 
 
 ## Functionality
@@ -15,6 +15,9 @@ CompanyB
 - An internal Discovery service running that does service discovery for all its internal microservices
 
 Other features to be added...
+
+### My Name is Gbenga Ogunkuade (08067647853).
+### I just love to code...
 
 
 
